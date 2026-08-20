@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Full Stack com 4+ anos de experiência na construção de software escalável, focado no ecossistema **Java (Spring Boot)** e arquiteturas **AWS Serverless**. Atualmente impulsionando o setor automotivo na **Autos 360 (Grupo OLX)**.
+Desenvolvedor Full Stack com 5+ anos de experiência na construção de software escalável, focado no ecossistema **Java (Spring Boot)** e arquiteturas **AWS Serverless**. Atualmente impulsionando o setor automotivo na **Autos 360 (Grupo OLX)**.
 
 - 📍 **Localização:** Blumenau - SC, Brasil[cite: 1]
 - 🏢 **Empresa:** Grupo OLX (@olxbr)[cite: 1]
