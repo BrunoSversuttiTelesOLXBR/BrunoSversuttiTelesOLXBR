@@ -50,25 +50,6 @@ Desenvolvedor Full Stack com 4+ anos de experiência na construção de software
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <!-- Card de Estatísticas Gerais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodevjava&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <!-- Card de Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevjava&layout=compact&theme=dark&hide=html,css" alt="Linguagens mais usadas" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Gráfico de Atividade (Substituto estável para o Streak Stats) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunodevjava&theme=react-dark" alt="Gráfico de Atividades" />
-</div>
-
----
-
 ### 📫 Conecte-se comigo
 
 <p align="left">
