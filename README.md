@@ -11,7 +11,7 @@ Desenvolvedor Full Stack com 4+ anos de experiência na construção de software
 - 📍 **Localização:** Blumenau - SC, Brasil[cite: 1]
 - 🏢 **Empresa:** Grupo OLX (@olxbr)[cite: 1]
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (UNITOLEDO)[cite: 1]
-- ✉️ **E-mail:** [sversuttibruno@gmail.com](mailto:sversuttibruno@gmail.com) | [bruno.teles@olxbr.com](mailto:bruno.teles@olxbr.com)[cite: 1]
+- ✉️ **E-mail:** [sversuttibruno@gmail.com](mailto:sversuttibruno@gmail.com)]
 - 💼 **LinkedIn:** [linkedin.com/in/bruno-sversutti](https://linkedin.com/in/bruno-sversutti)[cite: 1]
 
 ---
@@ -53,14 +53,18 @@ Desenvolvedor Full Stack com 4+ anos de experiência na construção de software
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodevjava&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevjava&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <!-- Card de Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodevjava&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  
+  <!-- Card de Linguagens Mais Usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevjava&layout=compact&theme=dark&hide=html,css" alt="Linguagens mais usadas" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunodevjava&theme=dark" alt="GitHub Streak" />
+  <!-- Gráfico de Atividade (Substituto estável para o Streak Stats) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunodevjava&theme=react-dark" alt="Gráfico de Atividades" />
 </div>
 
 ---
